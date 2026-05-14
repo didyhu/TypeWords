@@ -1,0 +1,4 @@
+name = "typewords-didy"
+compatibility_date = "2026-05-14"
+assets = { directory = "./dist" }
+routes = [ { pattern = "typewords.didy.dev/*", zone_name = "didy.dev" } ]
